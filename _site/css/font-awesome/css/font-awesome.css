@@ -11,6 +11,12 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'caviar';
+  src: url('../_assets/fonts/CaviarDreams.ttf');
+}
+
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
